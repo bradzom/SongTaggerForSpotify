@@ -393,3 +393,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 .idea/
 *.sln.iml
+/SpotifySongTagger/Properties/launchSettings.json
